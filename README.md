@@ -29,16 +29,54 @@ A comprehensive Java-based Bank Management System with ATM functionality built u
   
 ## 🖼️ Screenshots
 
-The application includes various screens:
+### Login Screen
+![Login Screen](screenshots/login_screen.png)
+*The main login interface where users enter their card number and PIN*
 
-- Login Screen
-- Registration Screens (Multi-step process)
-- Transaction Dashboard
-- Deposit & Withdrawal Screens
-- Balance Inquiry
-- Mini Statement Screen
-- Money Transfer Interface
-- Pin Chenge
+### Registration Process
+![Registration Form - Personal Details](screenshots/signup_personal.png)
+*Page 1: Personal details registration form*
+
+![Registration Form - Additional Details](screenshots/signup_additional.png)
+*Page 2: Additional information collection*
+
+![Registration Form - Account Details](screenshots/signup_account.png)
+*Page 3: Account type selection and service options*
+
+### Main ATM Interface
+![ATM Transaction Menu](screenshots/transaction_menu.png)
+*Main transaction menu with all available banking operations*
+
+### Deposit & Withdrawal
+![Deposit Screen](screenshots/deposit_screen.png)
+*Interface for depositing funds into account*
+
+![Withdrawal Screen](screenshots/withdrawal_screen.png)
+*Interface for withdrawing funds from account*
+
+### Account Management
+![Balance Inquiry](screenshots/balance_inquiry1.png)
+*Screen showing current account balance*
+
+![Balance Inquiry](screenshots/balance_inquiry2.png)
+*Screen showing current account balance*
+
+![Mini Statement](screenshots/mini_statement1.png)
+*Transaction history and account details*
+
+![Mini Statement](screenshots/mini_statement2.png)
+*Transaction history and account details*
+
+### Money Transfer
+![Recipient Selection](screenshots/money_transfer1.png)
+*First step of money transfer - entering recipient details*
+
+![Transfer Amount](screenshots/money_transfer2.png)
+*Second step of money transfer - entering amount and confirming*
+
+### Security
+![PIN Change](screenshots/pin_change.png)
+*Interface for changing the account PIN*
 
 ## 🔧 Technologies Used
 
